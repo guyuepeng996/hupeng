@@ -1,0 +1,211 @@
+[
+    {
+        "goodsId":1,
+        "title": "演唱会",
+        "aHref": "//search.damai.cn/search.htm?ctl=%E6%BC%94%E5%94%B1%E4%BC%9A&order=1&cty=%E4%B8%8A%E6%B5%B7",
+        "more": "查看全部",
+        "img":"https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN019SpIes2GdSCgGAIUa_!!0-item_pic.jpg",
+        "name":"王力宏“龙的传人2060”世界巡演宁波站",
+        "price":"￥380",
+        "childArr": [
+            {   "goodsId":2,
+                "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01RGrhtz2GdSCNVSLtS_!!0-item_pic.jpg",
+                "title": "2019上海简单生活节",
+                "venue": "上海金山城市沙滩",
+                "showtime": "2019.10.04-10.05",
+                "price": "320"
+            },
+            {   "goodsId":3,
+                "img": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01wZSFoO2GdSCY0QE4s_!!0-item_pic.jpg",
+                "title": "花粥“两碗三百”全国巡演上海站",
+                "venue": "Modernsky lab上海",
+                "showtime": "2019.12.28 周六 19:30",
+                "price": "260"
+            },
+            {   "goodsId":4,
+                "img": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01MiImua2GdSCRF6L15_!!0-item_pic.jpg",
+                "title": "江小白YOLO青年文化节上海站",
+                "venue": "上海东方绿舟",
+                "showtime": "2019.10.26 周六 12:00",
+                "price": "450"
+            },
+            {   "goodsId":5,
+                "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01thoyxv2GdSCRBw8Oy_!!0-item_pic.jpg",
+                "title": "于文文和她的乐队",
+                "venue": "万代南梦宫上海文化中心梦想剧场",
+                "showtime": "2019.11.08 周五 19:30",
+                "price": "280"
+            },
+            {   "goodsId":6,
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01CnB2oG2GdSCHVFhJS_!!0-item_pic.jpg",
+                "title": "「NOGIZAKA46 Live in Shanghai 2019」",
+                "venue": "梅赛德斯-奔驰文化中心",
+                "showtime": "2019.10.25-10.26",
+                "price": "680"
+            },
+            {   "goodsId":7,
+                "img": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN016rhYSX2GdSCADPxL2_!!0-item_pic.jpg",
+                "title": "2019郁可唯无限进化演唱会-上海站",
+                "venue": "国家会展中心(上海)虹馆EH",
+                "showtime": "2019.10.13 周日 19:30",
+                "price": "280"
+            }
+        ]
+    },
+    {
+        "title": "话剧歌剧",
+        "aHref": "//search.damai.cn/search.htm?ctl=%E8%AF%9D%E5%89%A7%E6%AD%8C%E5%89%A7&order=1&cty=%E4%B8%8A%E6%B5%B7",
+        "more": "查看全部",
+        "img":"https://pimg.dmcdn.cn/perform/project/1795/179531_n.jpg?_t=1569420829905",
+        "name":"开心麻花爆笑舞台剧 三戏贺岁第一发《贼想得到你》",
+        "price":"￥80",
+        "childArr": [
+            {"goodsId":8,
+                "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01cAKjKO2GdSClU99Wf_!!0-item_pic.jpg",
+                "title": "音乐剧《阴阳师》上海站",
+                "venue": "东方艺术中心-歌剧厅",
+                "showtime": "2019.12.13-12.15",
+                "price": "180"
+            },
+            {"goodsId":9,
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01gxnR4Q2GdSCJAPWZR_!!0-item_pic.jpg",
+                "title": "开心麻花爆笑舞台剧《窗前不止明月光》",
+                "venue": "人民大舞台",
+                "showtime": "2019.10.01-10.13",
+                "price": "80"
+            },
+            {"goodsId":10,
+                "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01HJ6Tqy2GdSCSNZ44g_!!0-item_pic.jpg",
+                "title": "不眠之夜Sleep No More（10月场）",
+                "venue": "麦金侬酒店",
+                "showtime": "2019.10.02-10.31",
+                "price": "520"
+            },
+            {"goodsId":11,
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01FSZEFf2GdSCXAXZhC_!!0-item_pic.jpg",
+                "title": "盗墓笔记4：蛇沼鬼城",
+                "venue": "美琪大戏院",
+                "showtime": "2020.01.15-01.18",
+                "price": "180"
+            },
+            {"goodsId":12,
+                "img": "https://pimg.dmcdn.cn/perform/project/1792/179284_n.jpg?_t=1568159863900",
+                "title": "参演剧目：意大利斯卡拉歌剧院 莫扎特歌剧《魔笛》",
+                "venue": "上音歌剧院",
+                "showtime": "2019.10.21-10.24",
+                "price": "280"
+            },
+            {"goodsId":13,
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01zYtxLL2GdSCd1Czo3_!!0-item_pic.jpg",
+                "title": "舞剧《永不消逝的电波》",
+                "venue": "九棵树未来艺术中心-大剧场",
+                "showtime": "2019.11.30-12.01",
+                "price": "380"
+            }
+        ]
+    },
+    {
+        "title": "体育比赛",
+        "aHref": "https://p.damai.cn/wow/pc/act/sports",
+        "more": "查看全部",
+        "img":"https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN016fovCp2GdSCgtDNBW_!!0-item_pic.jpg",
+        "name":"第七届世界军人运动会-田径比赛",
+        "price":"￥20",
+        "childArr": [
+            {"goodsId":14,
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01zuxtnS2GdSCddpN3i_!!0-item_pic.jpg",
+                "title": "（ATP当日现场取票）2019 上海劳力士大师赛 2019 Rolex Shanghai Masters",
+                "venue": "上海旗忠森林体育城网球中心",
+                "showtime": "2019.10.06-10.13",
+                "price": "160"
+            },
+            {"goodsId":15,
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01mS5LlN2GdSCf00xfl_!!0-item_pic.jpg",
+                "title": "中国超级跑锦标赛China GT",
+                "venue": "上汽国际赛车场(上海国际赛车场)",
+                "showtime": "2019.10.12-10.13",
+                "price": "78"
+            },
+            {"goodsId":16,
+                "img": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01MzfQyk2GdSCJHRK1B_!!0-item_pic.jpg",
+                "title": "别克LPGA锦标赛 | 10月17日-20日",
+                "venue": "上海旗忠花园高尔夫俱乐部",
+                "showtime": "2019.10.17-10.20",
+                "price": "50"
+            },
+            {"goodsId":17,
+                "img": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN012fDK512GdSCbsDKze_!!0-item_pic.jpg",
+                "title": "2019世锦赛-汇丰冠军赛 | 10月31日至11月3日",
+                "venue": "佘山国际高尔夫俱乐部",
+                "showtime": "2019.10.31-11.03",
+                "price": "150"
+            },
+            {"goodsId":18,
+                "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN018I5b192GdSChxcvJn_!!0-item_pic.jpg",
+                "title": "多多自走棋国际邀请赛",
+                "venue": "正大广场",
+                "showtime": "2019.10.25-10.27",
+                "price": "29"
+            },
+            {"goodsId":19,
+                "img": "https://pimg.dmcdn.cn/perform/project/1605/160592_n.jpg?_t=1550646419664",
+                "title": "全呈体育篮球培训（凯德七宝洛克公园校区）",
+                "venue": "全呈体育凯德七宝洛克公园校区",
+                "showtime": "2018.10.10-2020.06.30",
+                "price": "9.9"
+            }
+        ]
+    },
+    {
+        "title": "儿童亲子",
+        "aHref": "//search.damai.cn/search.htm?tn=%E5%84%BF%E7%AB%A5%E4%BA%B2%E5%AD%90&order=1&cty=%E4%B8%8A%E6%B5%B7",
+        "more": "查看全部",
+        "img":"https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01qWZS1u2GdSCfrL9Qz_!!0-item_pic.jpg",
+        "name":"【迪士尼官方授权】《冰上迪士尼-勇敢追梦》2019中国巡演天津站",
+        "price":"￥180",
+        "childArr": [
+            {"goodsId":20,
+                "img": "https://pimg.dmcdn.cn/perform/project/1790/179021_n.jpg?_t=1566893372079",
+                "title": "开心麻花合家欢音乐剧 《神秘的糖果工厂》",
+                "venue": "上戏实验剧院",
+                "showtime": "2019.10.03-10.06",
+                "price": "180"
+            },
+            {"goodsId":21,
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01thfEE62GdSCQ4X4Ly_!!0-item_pic.jpg",
+                "title": "老虎来喝下午茶",
+                "venue": "上海儿童艺术剧场-荣威中心剧场",
+                "showtime": "2019.10.05-10.07",
+                "price": "80"
+            },
+            {"goodsId":22,
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01ePerrL2GdSC9rCgNu_!!0-item_pic.jpg",
+                "title": "七幕人生出品 法国音乐剧《放牛班的春天》中文版 暖心上演 Sevenages Presents Les Choristes",
+                "venue": "上海大宁剧院",
+                "showtime": "2019.11.01-11.03",
+                "price": "180"
+            },
+            {"goodsId":23,
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01EBM1DE2GdSCVIRjrr_!!0-item_pic.jpg",
+                "title": "瑞典最受欢迎的魔幻儿童剧《小屁孩的烦恼》",
+                "venue": "兰馨·悦立方",
+                "showtime": "2019.10.05 周六",
+                "price": "80"
+            },
+            {"goodsId":24,
+                "img": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01MFqpqm2GdSCbGZBTy_!!0-item_pic.jpg",
+                "title": "大型励志亲子舞台剧《冰雪奇缘》—上海站",
+                "venue": "上海商城剧院",
+                "showtime": "2019.12.07 周六",
+                "price": "80"
+            },
+            {"goodsId":25,
+                "img": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01zR88c92GdSCSONGCk_!!0-item_pic.jpg",
+                "title": "皮影戏《火焰山+狐狸与乌鸦》",
+                "venue": "豫·上海剧院",
+                "showtime": "2019.10.01 周二",
+                "price": "80"
+            }
+        ]
+    }
+]
